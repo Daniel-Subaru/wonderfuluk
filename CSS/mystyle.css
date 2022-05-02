@@ -1,0 +1,40 @@
+.body{
+	font-size: 15px;
+	font-family: cursive;
+	background: #BC8F8F;
+	padding: 0 20px 0 20px;	
+}
+.h1{
+	color: 	blue;
+	text-align: center;	
+	text-decoration: underline	;
+
+
+
+}
+.por {
+	font-size: 18px;
+	
+}
+.hr{
+	background-color: 2px #000;
+}
+.sklep{
+	text-align: center;	
+
+}
+.p{
+	font-size: 16px;	
+}
+.gg{
+	font-size: 28px;	
+}
+.img{
+	width: 39%;
+	box-shadow: 3px 0px 5px 2px;
+}
+.vv{
+	font-size: 19px;	
+	padding: 0 300px 50px 0;
+	margin: -300px 0 0 600px ;
+}
